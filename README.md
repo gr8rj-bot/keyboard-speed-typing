@@ -12,5 +12,6 @@ I've been trying to get myself to work on this project for quite some time now!
 
 Nothing special. Just a javascript-enabled browser should do.
 
+new image!
 
 ![image](https://imgur.com/8ETutpk)
